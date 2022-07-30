@@ -1,0 +1,142 @@
+.diva{border:1px solid black;width:100%;height:1200px;display: flex;flex-direction: row;flex-wrap: wrap;justify-content: center;justify-items: center;text-align: center;}
+.divb{border:2px solid black;width:49.7%;height:396px;background-color: rgb(141,58,55);display: flex;justify-content: center;align-items: center;} 
+.divc{border:2px solid black;width:49.7%;height:396px;display: flex;justify-content: center;align-items: center;} 
+.divd{border:2px solid black;width:49.7%;height:396px;display: flex;justify-content: center;flex-direction: column;align-items: center;} 
+.dive{border:2px solid black;width:49.7%;height:396px;background-color: rgb(141,58,55);display: flex;justify-content: center;flex-direction: column;align-items: center} 
+.divf{border:2px solid black;width:49.7%;height:396px;background-image: url('../images/image-01.jpg');background-size:100% 100%;} 
+.divg{border:2px solid black;width:49.7%;height:396px;display: flex;justify-content: center;flex-direction: column;align-items: center} 
+
+
+
+.divba{width:50%;height:20%;color:white;font-size: 60px;}
+
+.divca{width:70%;height:30%;color:black;font-size: 25px;}
+
+.divda{ width:50%;height:10% ;color:rgb(141,58,55);font-size: 30px;}
+.divdb{ width:70%;height:30% ;font-size:20px;margin-top:5%;}
+.divdc{height:12%;width:22%;margin-left: 45%;background-color: rgb(141,58,55);color:white;margin-top:3%}
+.divdc input:hover{background-color: red;}
+
+
+.divea{width:25%;height:40%}
+.diveb{width:70%;height:20%;color:white;font-size: 17px;margin-top: 5%;}
+
+
+
+.divga{width:40%;height:10%;font-size:25px}
+.divgb{width:70%;height:25%;font-size: 17px;margin-top:4%;font-size:20px;}
+
+
+.divh{border:1px solid black;width:100%;height:80%   }
+
+.divi{width:65%;height:90%;float: left;margin:3% 0px 0px 0px}
+
+.divj{width:30%;height:90%;float: left;margin:3% 0px 0px 3%;background-image: url('../images/image-02.jpg ');background-size: 100% 100%;}
+
+.divia{ width:40%;height:10% ;margin:5% 0px 0px 5%;text-align: center;color:rgb(141,58,55);font-size:30px ;}
+
+.divib{ width:80%;height:20% ;margin:2% 0px 0px 5%;text-align: center;color:black;font-size:20px ;text-align: left;}
+
+.divic{ width:80%;height:20% ;margin:0% 0px 0px 5%;text-align: center;color:black;font-size:20px ;text-align: left;}
+
+.divid{width:80%;height:20% ;margin:0% 0px 0px 5%;text-align: center;color:black;font-size:20px ;text-align: left;}
+
+.divie{height:10%;width:18%;margin-left: 55%;background-color: rgb(141,58,55);color:white;margin-top:3%}
+
+
+
+.divs{border:1px solid black;width:100%;height:5%;color:white;text-align: center;font-size:30px;background-color: black;padding-top: 1%;position: absolute;}
+
+
+
+@media screen and (max-width:600px)
+{
+    .diva{border:1px solid black;width:100%;height:2390px}
+    
+    
+.divb{border:2px solid  red;width:100%;height:396px;background-color: rgb(141,58,55);display: flex;justify-content: center;align-items: center;} 
+
+.divc{border:2px solid  red;width:100%;height:396px;} 
+
+.divd{border:2px solid  red;width:100%;height:396px;} 
+
+.dive{border:2px solid  red;width:100%;height:396px;background-color: rgb(141,58,55)} 
+
+.divf{border:2px solid  red;width:100%;height:396px;} 
+
+
+.divg{border:2px solid red;width:100%;height:380px;display: flex;justify-content: center;flex-direction: column;align-items: center} 
+
+
+
+
+.divba{width:100%;height:10%;color:white;font-size: 60px;}
+
+
+.divca{width:100%;height:25%;color:black;font-size: 20px;}
+
+.divda{ width:100%;height:20% ;color:rgb(141,58,55);font-size: 30px;}
+
+.divdb{ width:100%;height:20% ;font-size:16px;}
+
+.divdc{height:12%;width:40%;margin-top:5%;color: white;}
+    
+
+
+.divea{width:100%;height:40%}
+.diveb{width:100%;height:20%;color:white;font-size: 17px;margin-top: 5%;}
+
+
+
+
+.divga{width:100%;height:10%;font-size:20px}
+.divgb{width:100%;height:25%;font-size: 17px;margin-top: 2%;font-size:15px;}
+
+
+
+
+
+
+.divh{border:1px solid white;width:100%;height:80%   }
+
+.divi{width:100%;height:90%;float: left;margin:2% 0px 0px 0px}
+
+.divj{border:1px solid red;width:100%;height:80%;float: left;margin:0% 0px 0px 0%;background-image: url('../images/image-02.jpg ');background-size: 100% 100%;}
+
+.divia{ width:100%;height:10% ;margin:5% 0px 0px 0%;text-align: center;color:rgb(141,58,55);font-size:30px ;}
+
+.divib{width:100%;height:20% ;margin:3% 0px 0px 0%;text-align: center;color:black;font-size:16px ;text-align: left;}
+
+.divic{ width:100%;height:20% ;margin:3% 0px 0px 0%;text-align: center;color:black;font-size:16px ;text-align: left;}
+
+.divid{ width:100%;height:20% ;margin:3% 0px 0px 0%;text-align: center;color:black;font-size:16px ;text-align: left;}
+
+.divie{height:9%;width:40%;margin-left: 55%;background-color: rgb(141,58,55);color:white;margin-top:3%}
+
+
+.divs{border:1px solid black;width:100%;height:5%;color:white;text-align: center;font-size:20px;background-color: black;margin-top: 120%;}
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
